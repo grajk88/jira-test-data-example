@@ -1,0 +1,27 @@
+{
+  "ABC-101": {
+    "product": "Motor",
+    "customerType": "Individual",
+    "paymentType": "Monthly"
+  },
+  "ABC-102": {
+    "product": "Motor",
+    "customerType": "Business",
+    "paymentType": "Annual"
+  },
+  "ABC-103": {
+    "product": "Home",
+    "customerType": "Individual",
+    "paymentType": "Monthly"
+  },
+  "ABC-104": {
+    "product": "Travel",
+    "customerType": "Individual",
+    "paymentType": "Annual"
+  },
+  "ABC-105": {
+    "product": "Home",
+    "customerType": "Business",
+    "paymentType": "Monthly"
+  }
+}
